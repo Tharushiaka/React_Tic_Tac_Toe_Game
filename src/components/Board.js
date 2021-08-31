@@ -25,7 +25,6 @@ renderSquare (i){
                 {this.renderSquare(7)}
                 {this.renderSquare(8)}
 
-{this.renderSquare(8)}
             </div>
        </div>
 
