@@ -24,8 +24,11 @@ renderSquare (i){
                 {this.renderSquare(6)}
                 {this.renderSquare(7)}
                 {this.renderSquare(8)}
+
+{this.renderSquare(8)}
             </div>
        </div>
+
         )
 
     }
